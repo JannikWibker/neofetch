@@ -9,6 +9,9 @@
 
 <img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
 
+> Why the fork? This fork adds support for [Überzug](https://github.com/seebye/ueberzug). Most of the work was done by the creator of überzug himself - seebye - in the comments of a [github issue](https://github.com/dylanaraps/neofetch/issues/1172#issuecomment-487909894) but also [RaitaroH](https://github.com/dylanaraps/neofetch/issues/1172#issuecomment-487874541). 
+> Just replace "image_backend" with "uberzug", "ueberzug" or "überzug" and everything should work (probably)
+
 Neofetch is a command-line system information tool written in `bash 3.2+`. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
 The overall purpose of Neofetch is to be used in screen-shots of your system. Neofetch shows the information other people want to see. There are other tools available for proper system statistic/diagnostics.
